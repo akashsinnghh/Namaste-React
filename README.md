@@ -114,39 +114,8 @@ Start the server
 This application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 
-## ✨ Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/chetannada/"><img src="https://avatars.githubusercontent.com/u/83969719?v=4?s=100" width="100px;" alt="Chetan Nada"/><br /><sub><b>Chetan Nada</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=chetannada" title="Code">💻</a> <a href="#data-chetannada" title="Data">🔣</a> <a href="#design-chetannada" title="Design">🎨</a> <a href="#research-chetannada" title="Research">🔬</a> <a href="https://github.com/chetannada/Namaste-React/commits?author=chetannada" title="Documentation">📖</a> <a href="https://github.com/chetannada/Namaste-React/pulls?q=is%3Apr+reviewed-by%3Achetannada" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/akshaynarisetti"><img src="https://avatars.githubusercontent.com/u/58532023?v=4?s=100" width="100px;" alt="Akshay Narisetti"/><br /><sub><b>Akshay Narisetti</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=akshaynarisetti" title="Code">💻</a> <a href="https://github.com/chetannada/Namaste-React/pulls?q=is%3Apr+reviewed-by%3Aakshaynarisetti" title="Reviewed Pull Requests">👀</a> <a href="#tool-akshaynarisetti" title="Tools">🔧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/chinmay021"><img src="https://avatars.githubusercontent.com/u/37647219?v=4?s=100" width="100px;" alt="Chinmay Kumar"/><br /><sub><b>Chinmay Kumar</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=chinmay021" title="Code">💻</a> </td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/arpankesh"><img src="https://avatars.githubusercontent.com/u/62733152?v=4?s=100" width="100px;" alt="Arpan Kesh"/><br /><sub><b>Arpan Kesh</b></sub></a><br /> <a href="https://github.com/chetannada/Namaste-React/commits?author=arpankesh" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/danishagarwal"><img src="https://avatars.githubusercontent.com/u/81150631?v=4?s=100" width="100px;" alt="Danish Agarwal"/><br /><sub><b>Danish Agarwal</b></sub></a><br /><a href="https://github.com/chetannada/Namaste-React/commits?author=danishagarwal" title="Documentation">📖</a> </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
-
-
-### 🌟 Many many Thanks to all the `Stargazers` who has supported this project with stars 🌟 
-[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/chetannada/Namaste-React?limit=15)](https://github.com/chetannada/Namaste-React/stargazers)
 
 
 ## 🔗 Let's Connect
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chetannada.netlify.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashsinnghh/)
